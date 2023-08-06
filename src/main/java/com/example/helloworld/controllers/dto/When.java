@@ -1,8 +1,8 @@
-package pl.ustawki.backend.domain.dto;
-
-import lombok.Data;
+package com.example.helloworld.controllers.dto;
 
 import java.util.List;
+
+import lombok.Data;
 
 @Data
 public class When {
